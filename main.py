@@ -5,7 +5,7 @@ import os
 import json
 from datetime import datetime
 
-BOT_TOKEN = "8152798171:AAGRupVOrBcDmdT-KbKtfrsevWdsd2GaDyQ"
+BOT_TOKEN = "8152798171:AAFzPpMsbhSZRvtRAV0ZSC4L4ZEY-310Gek"
 API_AUTH = "Basic RFJFUE9SVF9ISVNMMjpWbnB0Izc4OSE"
 HISTORY_FILE = "history.json"
 
